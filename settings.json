@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ms7nett.aternos.me",
+    "ip": "ms7nett.aternos.me:60939",
     "port": 60939,
     "version": "",
     "try-creative": false
