@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "beardfish.aternos.host",
+    "ip": "corgidor.aternos.host",
     "port": 60939,
     "version": "1.20.6",
     "try-creative": false
