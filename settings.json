@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ms7nett.aternos.me",
+    "ip": "crappie.aternos.host:60939",
     "port": 60939,
     "version": "1.20.6",
     "try-creative": false
