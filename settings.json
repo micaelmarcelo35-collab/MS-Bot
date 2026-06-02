@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ms7nett.aternos.me:60939",
+    "ip": "ms7nett.aternos.me",
     "port": 60939,
-    "version": "",
+    "version": "1.20.6",
     "try-creative": false
   },
   "position": {
